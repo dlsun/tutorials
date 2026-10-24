@@ -1,0 +1,6 @@
+a9da502da4d82d63244ad628d8ab58553e1a53f6007cdb5e1ac75861d2426f96  raw-sp26-gradescope-grades.csv
+e45da23b65d7a3108b33594a3d35b7df0ec50743b993d334d33f6acfb4bc9a21  raw-tutorial-assignments.csv
+60b46948ff2743580215a45dbdb823c67cf7709c16615ad0566a71ce44ef8708  raw-consent.csv
+41f704c4dcfc46e9be6ad7578bc534c7e2b2c77dd42ef534a8000c218fe29b6c  raw-pretest-scores.csv
+combined SHA-256: f599569c7853c10c5a013d8bf385e9b44f4ba8cf2999a79e427e317aaf8f5e3a
+OK: combined digest matches

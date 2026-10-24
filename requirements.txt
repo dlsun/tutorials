@@ -1,0 +1,4 @@
+# The versions of the reference run (Results/environment.txt), under Python 3.13.
+# With them, a run reproduces the committed outputs byte for byte.
+numpy==2.5.2
+scipy==1.18.0

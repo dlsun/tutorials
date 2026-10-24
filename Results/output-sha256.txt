@@ -1,0 +1,6 @@
+bec87e45a3378ec624b5cabb07e8e45daa7e8673bb4bcb25a32d8ef2524a6af3  ../Data/canonical/grades-with-pretest.csv
+b24c4ee2dc7a25a13bc321c23547031eba54f3c77a5104562ff59c54e3302efe  ../Data/canonical/completed.csv
+fa0c7c0fb0eb1ca0f85284a1d67b2d0d6893ed199121166dc7e75b55f3f84787  ../Data/canonical/consent-matches.csv
+019be548fe744887b64fe4738be219a79cdc2a0e6440e01b3e4ee6d43813dd5f  ../Results/factor-table.tex
+632eb64ba0a2b9f08f2f4ec359f18ac7bcac6eade8d73113df79f82aa1c7863b  ../Results/randomization-table.tex
+combined SHA-256: 1017d01d73695f7206b6b8f79b9f1048def3f6d18d7e6e2ee26dbeab7cc01dae
