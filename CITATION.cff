@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+type: software
+title: "Analysis code for \"What's Old Is New: Improved Learning from Small-Group Tutorials\""
+abstract: >-
+  Analysis code for a randomized experiment in STATS 117 at Stanford in
+  Spring 2026, which tested the effect of Oxbridge-style small-group tutorials
+  on exam scores. The pipeline takes the raw course exports through to the
+  paper's two tables: a fixed-effects analysis of the randomized block design
+  and a randomization test within pretest-score blocks. The data included are
+  synthetic stand-ins with the same structure as the real exports, which are
+  student records and are not public; SHA-256 digests of the real files are
+  provided so that an approved auditor can verify a run on them.
+authors:
+  - family-names: Duchi
+    given-names: John C.
+    affiliation: Stanford University
+  - family-names: Hartog
+    given-names: Will
+    affiliation: Stanford University
+  - family-names: Sun
+    given-names: Dennis L.
+    affiliation: Stanford University
+keywords:
+  - randomized experiment
+  - education
+  - teaching probability
+  - artificial intelligence
+license: BSD-3-Clause
+repository-code: "https://github.com/dlsun/tutorials"

@@ -63,7 +63,8 @@ well below the true effect of 10.
 
 An auditor who has been given the real exports places them in `Data/`,
 replacing the synthetic files, and runs the pipeline with the real data's
-digest, which is also printed in the paper's supplementary material:
+combined digest. The paper's supplementary material prints the four per-file
+digests it is computed from, and `Code/PIPELINE.md` gives both:
 
 ```sh
 cd Code
@@ -83,3 +84,5 @@ the tables.
 | `Code/PIPELINE.md` | the audit trail |
 | `Data/` | the synthetic raw files, and `canonical/`, what the pipeline derives from them |
 | `Results/` | the pipeline's outputs on the synthetic data |
+| `CITATION.cff` | how to cite this code |
+| `LICENSE` | the BSD 3-Clause License, under which the code and synthetic data are released |
